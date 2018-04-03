@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationDrawerLayoutExample</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="caption_title_nav_drawer">Lorem ipsum dolor sit amet,.</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="menu_a">Menu A</string>
+    <string name="menu_b">Menu B</string>
+    <string name="menu_c">Menu C</string>
+</resources>
